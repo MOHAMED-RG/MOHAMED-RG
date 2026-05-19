@@ -21,13 +21,11 @@ Computer Science graduate passionate about Data Science and Machine Learning.
 - Improving SQL and Machine Learning skills
 - Preparing for internships and entry-level roles
 
-## 📫 Connect with Me
-- LinkedIn: (https://www.linkedin.com/in/mohamed-abdelmenem-a2464931b/)
-
-
 ## 📂 Featured Projects
-
 - 📊 Netflix Movies & TV Shows EDA
 - 🏠 House Price Prediction ML Model
 - 🧠 Teen Mental Health Dashboard
 - 🗄️ SQL Sales Analysis Project
+
+## 📫 Connect with Me
+- LinkedIn: [Mohamed Abdelmenem](https://www.linkedin.com/in/mohamed-abdelmenem-a2464931b/)
