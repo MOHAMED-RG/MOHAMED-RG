@@ -16,4 +16,4 @@ Computer Science graduate passionate about Data Science and Machine Learning.
 - Preparing for internships and entry-level roles
 
 ## 📫 Connect with Me
-- LinkedIn: [add-your-link](https://www.linkedin.com/in/mohamed-abdelmenem-a2464931b/)
+- LinkedIn: (https://www.linkedin.com/in/mohamed-abdelmenem-a2464931b/)
