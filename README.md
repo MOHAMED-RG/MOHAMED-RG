@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Mohamed 👋
 
-<!--
-**MOHAMED-RG/MOHAMED-RG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science graduate passionate about Data Science and Machine Learning.
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- Python
+- SQL
+- Pandas
+- NumPy
+- Machine Learning
+- Data Analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Current Focus
+- Building Data Science projects
+- Improving SQL and Machine Learning skills
+- Preparing for internships and entry-level roles
+
+## 📫 Connect with Me
+- LinkedIn: add-your-link
