@@ -6,7 +6,7 @@ Computer Science graduate passionate about Data Science and Machine Learning.
 - Python
 - SQL
 - MySQL
-- PostgreSQL
+- PostgreSQL 
 - Pandas
 - NumPy
 - Matplotlib
