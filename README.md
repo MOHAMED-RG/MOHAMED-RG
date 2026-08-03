@@ -15,7 +15,7 @@ Computer Science graduate passionate about Data Science and Machine Learning.
 - Machine Learning
 - Data Analysis
 - Exploratory Data Analysis (EDA)
-- Streamlit
+- Streamlit 
 
 ## 📊 Current Focus
 - Building Data Science projects
