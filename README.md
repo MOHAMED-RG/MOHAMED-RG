@@ -8,7 +8,7 @@ Computer Science graduate passionate about Data Science and Machine Learning.
 - MySQL
 - PostgreSQL 
 - Pandas
-- NumPy
+- NumPy       
 - Matplotlib
 - Seaborn
 - Scikit-learn
