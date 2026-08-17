@@ -2,7 +2,7 @@
 
 Computer Science graduate passionate about Data Science and Machine Learning.
 
-## 🚀 Skills
+## 🚀 Skills                          
 - Python
 - SQL
 - MySQL
