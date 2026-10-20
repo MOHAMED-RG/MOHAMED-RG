@@ -35,6 +35,15 @@ Computer Science graduate passionate about Data Science, Machine Learning, and D
 - Jupyter Notebook
 - Git & GitHub
 
+## ☁️ Cloud & AWS
+
+- AWS Cloud Fundamentals — Manara
+- Amazon S3 — Learning
+- Amazon Athena — Learning
+
+**Currently:** Preparing to build a hands-on data analytics project using Amazon S3 and Athena.
+
+
 ## 📊 Featured Projects
 
 - 📚 [Books Web Scraping](https://github.com/MOHAMED-RG/Books-Web-Scraping) — Scraped book titles, prices, ratings, and availability across multiple pages using Python, Requests, and BeautifulSoup. Cleaned and analyzed the data using Pandas and Matplotlib.
