@@ -1,6 +1,6 @@
 # Hi, I'm Mohamed 👋
 
-Computer Science graduate passionate about Data Science, Machine Learning, and Data Analytics. I enjoy building projects that turn raw data into meaningful insights and practical solutions.
+Computer Science graduate passionate about Machine Learning, Python, and building practical software projects. I enjoy developing ML applications and exploring technologies that help turn data into useful solutions.
 
 ## 🚀 Skills & Technologies
 
@@ -10,30 +10,38 @@ Computer Science graduate passionate about Data Science, Machine Learning, and D
 - PostgreSQL
 - MySQL
 
-**Data Analysis & Visualization**
+**Python Libraries**
 - Pandas
 - NumPy
 - Matplotlib
 - Seaborn
-- Excel
-- Power BI
-- Exploratory Data Analysis (EDA)
+- Scikit-learn
 
 **Machine Learning**
-- Scikit-learn
 - Regression & Classification
 - Feature Engineering
 - Model Evaluation
-- Streamlit
+- Supervised Learning
 
-**Big Data & Tools**
+**Application Development & Deployment**
+- Streamlit
+- Docker
+
+**Big Data & Cloud**
 - PySpark
 - Databricks
-- Docker
+- AWS Cloud Fundamentals
+- Amazon S3 — Learning
+- Amazon Athena — Learning
+
+**Web Scraping**
 - Requests
 - BeautifulSoup
+
+**Version Control & Development Tools**
+- Git
+- GitHub
 - Jupyter Notebook
-- Git & GitHub
 
 ## ☁️ Cloud & AWS
 
@@ -69,12 +77,12 @@ Computer Science graduate passionate about Data Science, Machine Learning, and D
 
 ## 📚 Currently Learning & Improving
 
-- Building practical Data Science and Machine Learning projects
-- Improving SQL problem-solving and data analysis skills
-- Practicing Docker and containerization
-- Learning web scraping techniques and data collection
-- Exploring big data processing with PySpark and Databricks
-- Preparing for Data Science internships and entry-level opportunities
+- Strengthening Machine Learning fundamentals and interview skills
+- Practicing SQL problem-solving
+- Building and containerizing applications with Docker
+- Exploring cloud-based data analytics using AWS S3 and Athena
+- Improving PySpark and Databricks skills
+- Preparing for Data Science and Machine Learning internships
 
 ## 📫 Connect with Me
 
