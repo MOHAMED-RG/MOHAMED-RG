@@ -1,6 +1,6 @@
 # Hi, I'm Mohamed 👋
 
-Computer Science graduate passionate about Machine Learning, Python, and building practical software projects. I enjoy developing ML applications and exploring technologies that help turn data into useful solutions.
+Computer Science graduate passionate about Data Science and Machine Learning, with hands-on experience building projects that transform data into meaningful insights and practical solutions.
 
 ## 🚀 Skills & Technologies
 
