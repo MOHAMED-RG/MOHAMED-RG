@@ -15,13 +15,22 @@ Computer Science graduate passionate about Data Science and Machine Learning, wi
 - NumPy
 - Matplotlib
 - Seaborn
-- Scikit-learn
 
 **Machine Learning**
-- Regression & Classification
-- Feature Engineering
-- Model Evaluation
+- Scikit-learn
 - Supervised Learning
+- Regression and Classification
+- Data Preprocessing
+- Feature Engineering
+- Model Training & Evaluation
+- Hyperparameter Tuning (GridSearchCV)
+
+**Data Analytics & Business Intelligence**
+- Microsoft Excel
+- Power BI
+- Data Cleaning & Analysis
+- Dashboard Development
+- Data Visualization
 
 **Application Development & Deployment**
 - Streamlit
@@ -43,12 +52,6 @@ Computer Science graduate passionate about Data Science and Machine Learning, wi
 - GitHub
 - Jupyter Notebook
 
-## ☁️ Cloud & AWS
-
-- AWS Cloud Fundamentals — Manara
-- Amazon S3 — Learning
-- Amazon Athena — Learning
-
 **Currently:** Preparing to build a hands-on data analytics project using Amazon S3 and Athena.
 
 ## 📊 Featured Projects
@@ -59,7 +62,7 @@ Computer Science graduate passionate about Data Science and Machine Learning, wi
 
 - 🎓 [Student Exam Score Prediction](https://github.com/MOHAMED-RG/student-exam-score-prediction) — Developed a regression model to predict student exam scores and evaluated its performance using MAE, RMSE, and R².
 
-- 🛍️ [E-Commerce Customer Analytics](https://github.com/MOHAMED-RG/E-Commerce-Customer-Analytics-PySpark) — Analyzed customer data using PySpark and Databricks, including data transformations, Spark SQL, Delta Lake, and partitioning.
+- 🛍️ [E-Commerce Customer Analytics](https://github.com/MOHAMED-RG/E-Commerce-Customer-Analytics-PySpark) — Analyzed customer data using PySpark and Databricks, including data transformations, Spark SQL, and partitioning.
 
 - 📈 [Retail Sales Analysis](https://github.com/MOHAMED-RG/Retail-Sales-Project) — Cleaned retail transaction data using Excel and built a Power BI dashboard to explore sales performance, product categories, and customer segments.
 
