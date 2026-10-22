@@ -56,11 +56,11 @@ Computer Science graduate passionate about Data Science and Machine Learning, wi
 
 ## 📊 Featured Projects
 
-- 📚 [Books Web Scraping](https://github.com/MOHAMED-RG/Books-Web-Scraping) — Scraped book titles, prices, ratings, and availability across multiple pages using Python, Requests, and BeautifulSoup. Cleaned and analyzed the data using Pandas and Matplotlib.
-
 - 🧠 [Customer Churn Prediction](https://github.com/MOHAMED-RG/Customer-Churn-Prediction) — Built a machine learning classification project to predict customer churn using Python and Scikit-learn, with a Streamlit application.
 
 - 🎓 [Student Exam Score Prediction](https://github.com/MOHAMED-RG/student-exam-score-prediction) — Developed a regression model to predict student exam scores and evaluated its performance using MAE, RMSE, and R².
+
+- 🏠 [House Price Prediction](https://github.com/MOHAMED-RG/house-price-prediction-ml) — Developed a machine learning regression model to estimate house prices.
 
 - 🛍️ [E-Commerce Customer Analytics](https://github.com/MOHAMED-RG/E-Commerce-Customer-Analytics-PySpark) — Analyzed customer data using PySpark and Databricks, including data transformations, Spark SQL, and partitioning.
 
@@ -72,7 +72,8 @@ Computer Science graduate passionate about Data Science and Machine Learning, wi
 
 - 📊 [Netflix Movies & TV Shows EDA](https://github.com/MOHAMED-RG/netflix-movies-tvshows-eda) — Explored Netflix content using Python, Pandas, and data visualization libraries.
 
-- 🏠 [House Price Prediction](https://github.com/MOHAMED-RG/house-price-prediction-ml) — Developed a machine learning regression model to estimate house prices.
+- 📚 [Books Web Scraping](https://github.com/MOHAMED-RG/Books-Web-Scraping) — Scraped book titles, prices, ratings, and availability across multiple pages using Python, Requests, and BeautifulSoup. Cleaned and analyzed the data using Pandas and Matplotlib.
+  
 
 - 🧠 [Teen Mental Health Dashboard](https://github.com/MOHAMED-RG/teen-mental-health-dashboard) — Analyzed relationships between sleep and stress using Excel and created a dashboard.
 
