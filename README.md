@@ -72,12 +72,13 @@ Computer Science graduate passionate about Data Science and Machine Learning, wi
 
 - 📊 [Netflix Movies & TV Shows EDA](https://github.com/MOHAMED-RG/netflix-movies-tvshows-eda) — Explored Netflix content using Python, Pandas, and data visualization libraries.
 
+- 📊 [Superstore Sales Analysis](https://github.com/MOHAMED-RG/Superstore-Sales-Analysis) — Analyzed sales data using SQL and Power BI to explore business performance and visualize insights.
+
 - 📚 [Books Web Scraping](https://github.com/MOHAMED-RG/Books-Web-Scraping) — Scraped book titles, prices, ratings, and availability across multiple pages using Python, Requests, and BeautifulSoup. Cleaned and analyzed the data using Pandas and Matplotlib.
   
-
 - 🧠 [Teen Mental Health Dashboard](https://github.com/MOHAMED-RG/teen-mental-health-dashboard) — Analyzed relationships between sleep and stress using Excel and created a dashboard.
 
-- 📊 [Superstore Sales Analysis](https://github.com/MOHAMED-RG/Superstore-Sales-Analysis) — Analyzed sales data using SQL and Power BI to explore business performance and visualize insights.
+
 
 ## 📚 Currently Learning & Improving
 
