@@ -40,8 +40,8 @@ Computer Science graduate passionate about Data Science and Machine Learning, wi
 - PySpark
 - Databricks
 - AWS Cloud Fundamentals
-- Amazon S3 — Learning
-- Amazon Athena — Learning
+- Amazon S3 
+- Amazon Athena
 
 **Web Scraping**
 - Requests
