@@ -9,6 +9,7 @@ Computer Science graduate passionate about Data Science and Machine Learning, wi
 - SQL
 - PostgreSQL
 - MySQL
+- MongoDB (NoSQL)
 
 **Python Libraries**
 - Pandas
