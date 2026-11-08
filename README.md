@@ -1,95 +1,112 @@
-# Hi, I'm Mohamed 👋
+<div align="center">
 
-Computer Science graduate passionate about Data Science and Machine Learning, with hands-on experience building predictive models, analyzing data, and developing Python applications. I enjoy turning data into meaningful insights and practical solutions.
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · mohamed-rg</sub></p>
+<h1>MOHAMED ATIA</h1>
+<h2>Backend or systems engineer</h2>
+<p>Computer Science graduate | Data Science &amp; Machine Learning Enthusiast</p>
+<p><strong>● Building and sharing work in public</strong></p>
+<p><sub>Based in Egypt</sub></p>
+<p><a href="https://github.com/mohamed-rg">GitHub</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/178673377?v=4" width="180" alt="MOHAMED ATIA GitHub avatar" />
+</td>
+</tr>
+</table>
+</div>
 
-## 🚀 Skills & Technologies
+<h2>What teams can evaluate quickly</h2>
 
-**Programming & Databases**
-- Python
-- SQL
-- PostgreSQL
-- MySQL
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Backend or systems engineer · Jupyter Notebook · Python</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>12 repositories · 0 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>269 contributions · 65 active days</p></td>
+</tr>
+</table>
 
-**Python Libraries**
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
+<p><sub>Computer Science graduate | Data Science &amp; Machine Learning Enthusiast</sub></p>
 
-**Machine Learning**
-- Scikit-learn
-- Supervised Learning
-- Regression and Classification
-- Data Preprocessing
-- Feature Engineering
-- Model Training & Evaluation
-- Hyperparameter Tuning (GridSearchCV)
+<h2>Proof at a glance</h2>
 
-**Data Analytics & Business Intelligence**
-- Microsoft Excel
-- Power BI
-- Data Cleaning & Analysis
-- Dashboard Development
-- Data Visualization
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>12</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>0</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>269</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>0</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
 
-**Application Development & Deployment**
-- Streamlit
-- Docker
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=mohamed-rg&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F178673377%3Fv%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=mohamed-rg&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F178673377%3Fv%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="MOHAMED ATIA GitHub proof metrics" />
+</picture>
+</p>
 
-**Big Data & Cloud**
-- PySpark
-- Databricks
-- AWS Cloud Fundamentals
-- Amazon S3 
-- Amazon Athena
+<h2>Selected work</h2>
 
-**Web Scraping**
-- Requests
-- BeautifulSoup
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=mohamed-rg&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F178673377%3Fv%3D4&repos=mohamed-rg%2FBooks-Web-Scraping%2Cmohamed-rg%2FE-Commerce-Customer-Analytics-PySpark%2Cmohamed-rg%2Fstudent-exam-score-prediction%2Cmohamed-rg%2FCustomer-Churn-Prediction&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=mohamed-rg&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F178673377%3Fv%3D4&repos=mohamed-rg%2FBooks-Web-Scraping%2Cmohamed-rg%2FE-Commerce-Customer-Analytics-PySpark%2Cmohamed-rg%2Fstudent-exam-score-prediction%2Cmohamed-rg%2FCustomer-Churn-Prediction&v=recruiter-projects-1&mode=dark" width="100%" alt="MOHAMED ATIA selected projects" />
+</picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/MOHAMED-RG/Books-Web-Scraping">Books-Web-Scraping</a></h3>
+<p>A selected public project.</p>
+<p><sub>Jupyter Notebook · ⭐ 0 · 🍴 0</sub></p>
+<p><a href="https://github.com/MOHAMED-RG/Books-Web-Scraping">Read the repository →</a></p>
+</td>
+</tr>
+</table>
 
-**Version Control & Development Tools**
-- Git
-- GitHub
-- Jupyter Notebook
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/MOHAMED-RG/E-Commerce-Customer-Analytics-PySpark">E-Commerce-Customer-Analytics-PySpark</a></h3><p>A selected public project.</p><p><sub>Jupyter Notebook · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/MOHAMED-RG/student-exam-score-prediction">student-exam-score-prediction</a></h3><p>A selected public project.</p><p><sub>Jupyter Notebook · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/MOHAMED-RG/Customer-Churn-Prediction">Customer-Churn-Prediction</a></h3><p>A selected public project.</p><p><sub>Jupyter Notebook · ⭐ 0</sub></p></td>
+</tr>
+</table>
 
-**Currently:** Preparing to build a hands-on data analytics project using Amazon S3 and Athena.
+<h2>Technical toolkit</h2>
 
-## 📊 Featured Projects
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=mohamed-rg&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F178673377%3Fv%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=mohamed-rg&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F178673377%3Fv%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="MOHAMED ATIA technology stack" />
+</picture>
+</p>
 
-- 🧠 [Customer Churn Prediction](https://github.com/MOHAMED-RG/Customer-Churn-Prediction) — Built a machine learning classification project to predict customer churn using Python and Scikit-learn, with a Streamlit application.
+<table width="100%">
+<tr>
+<td width="50%" align="center"><strong>Jupyter Notebook</strong><br /><sub>100% of public code</sub></td>
+<td width="50%" align="center"><strong>Python</strong><br /><sub>0% of public code</sub></td>
+</tr>
+</table>
 
-- 🎓 [Student Exam Score Prediction](https://github.com/MOHAMED-RG/student-exam-score-prediction) — Developed a regression model to predict student exam scores and evaluated its performance using MAE, RMSE, and R².
+<h2>Consistency signal</h2>
 
-- 🏠 [House Price Prediction](https://github.com/MOHAMED-RG/house-price-prediction-ml) — Developed a machine learning regression model to estimate house prices.
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=mohamed-rg&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F178673377%3Fv%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=mohamed-rg&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F178673377%3Fv%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="MOHAMED ATIA contribution activity" />
+</picture>
+</p>
 
-- 🛍️ [E-Commerce Customer Analytics](https://github.com/MOHAMED-RG/E-Commerce-Customer-Analytics-PySpark) — Analyzed customer data using PySpark and Databricks, including data transformations, Spark SQL, and partitioning.
+<hr />
 
-- 📈 [Retail Sales Analysis](https://github.com/MOHAMED-RG/Retail-Sales-Project) — Cleaned retail transaction data using Excel and built a Power BI dashboard to explore sales performance, product categories, and customer segments.
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/mohamed-rg">GitHub</a></td>
+</tr>
+</table>
 
-- 🏙️ [Airbnb New York Analysis](https://github.com/MOHAMED-RG/Airbnb-New-York) — Explored New York Airbnb listings using data analysis and visualization.
-
-- 🗄️ [SQL Sales Analysis](https://github.com/MOHAMED-RG/sql-sales-analysis-project) — Used SQL and PostgreSQL to analyze sales data and answer business questions.
-
-- 📊 [Netflix Movies & TV Shows EDA](https://github.com/MOHAMED-RG/netflix-movies-tvshows-eda) — Explored Netflix content using Python, Pandas, and data visualization libraries.
-
-- 📊 [Superstore Sales Analysis](https://github.com/MOHAMED-RG/Superstore-Sales-Analysis) — Analyzed sales data using SQL and Power BI to explore business performance and visualize insights.
-
-- 📚 [Books Web Scraping](https://github.com/MOHAMED-RG/Books-Web-Scraping) — Scraped book titles, prices, ratings, and availability across multiple pages using Python, Requests, and BeautifulSoup. Cleaned and analyzed the data using Pandas and Matplotlib.
-  
-- 🧠 [Teen Mental Health Dashboard](https://github.com/MOHAMED-RG/teen-mental-health-dashboard) — Analyzed relationships between sleep and stress using Excel and created a dashboard.
-
-
-
-## 📚 Currently Learning & Improving
-
-- Strengthening Machine Learning fundamentals and interview skills
-- Practicing SQL problem-solving
-- Building and containerizing applications with Docker
-- Exploring cloud-based data analytics using AWS S3 and Athena
-- Improving PySpark and Databricks skills
-- Preparing for Data Science and Machine Learning internships
-
-## 📫 Connect with Me
-
-- LinkedIn: [Mohamed Abdelmenem](https://www.linkedin.com/in/mohamed-abdelmenem-a2464931b/)
-- GitHub: [MOHAMED-RG](https://github.com/MOHAMED-RG)
+<p align="center"><sub>MOHAMED ATIA · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
